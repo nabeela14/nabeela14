@@ -1,6 +1,6 @@
-### Hi there 👋
--I'm Nabeela 👩🏻‍💻
+### Hi there,I'm Nabeela 👋 
 <br/>
+-👩🏻‍💻
 -🎓I'm currently pursuing MCA
 <br />
 -🤔 I’m looking for oppurtunities to enhance my skills and get profound knowledge

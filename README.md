@@ -1,8 +1,10 @@
 ### Hi there 👋
 -I'm Nabeela 👩🏻‍💻
+<br/>
 -🎓I'm currently pursuing MCA
--🤔 I’m looking for oppurtunities to looking for opportunities to enhance my skills and get profound knowledge
- ...
+<br />
+-🤔 I’m looking for oppurtunities to enhance my skills and get profound knowledge
+ 
 <br />
 <br/>
 

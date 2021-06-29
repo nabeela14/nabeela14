@@ -1,4 +1,6 @@
 ### Hi there 👋
+I'm Nabeela 👩🏻‍💻
+🎓I'm currently a first year Masters student pursuing MCA
 
 <br />
 <br/>

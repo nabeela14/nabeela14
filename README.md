@@ -1,7 +1,8 @@
 ### Hi there 👋
-I'm Nabeela 👩🏻‍💻
-🎓I'm currently a first year Masters student pursuing MCA
-
+-I'm Nabeela 👩🏻‍💻
+-🎓I'm currently pursuing MCA
+-🤔 I’m looking for oppurtunities to looking for opportunities to enhance my skills and get profound knowledge
+ ...
 <br />
 <br/>
 

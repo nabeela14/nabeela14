@@ -2,7 +2,7 @@
 
 -🎓I'm currently pursuing MCA
 <br />
--🤔 I’m looking for oppurtunities to enhance my skills and get profound knowledge
+-🌱I’m looking for oppurtunities to enhance my skills and get profound knowledge
 <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nabeela14&label=Profile%20views&color=129e00&style=plastic" alt="nabeela14" /> </p>
 <br />

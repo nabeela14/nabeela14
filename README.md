@@ -4,7 +4,7 @@
 <br />
 -🤔 I’m looking for oppurtunities to enhance my skills and get profound knowledge
 <br/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=khushboogoel01&label=Profile%20views&color=129e00&style=plastic" alt="khushboogoel01" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nabeela14&label=Profile%20views&color=129e00&style=plastic" alt="nabeela14" /> </p>
 <br />
 
 ### Languages and Tools:

@@ -1,4 +1,4 @@
-### Hi there,I'm Nabeela 👋 
+<h1 align="center">Hi there,I'm Nabeela 👋</h1> 
 
 -🎓I'm currently pursuing MCA
 <br />
@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nabeela14&label=Profile%20views&color=129e00&style=plastic" alt="nabeela14" /> </p>
 <br />
 
-### Languages and Tools:
+<h2>Languages and Tools:</h2>
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
